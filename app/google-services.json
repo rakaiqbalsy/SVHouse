@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038982455735",
+    "firebase_url": "https://svhouse-88a50.firebaseio.com",
+    "project_id": "svhouse-88a50",
+    "storage_bucket": "svhouse-88a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038982455735:android:34625965664de5f9",
+        "android_client_info": {
+          "package_name": "com.kelompok3.rplinformatika.svhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038982455735-8ksmdontvtv2m36eaug3rcks4e96ampq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok3.rplinformatika.svhouse",
+            "certificate_hash": "ff5c02c69ab3810391558be472fd4d952a3ce8e0"
+          }
+        },
+        {
+          "client_id": "1038982455735-utjv4psuov39ne8vlkpq19ldquu1fal2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_LPGBDJz8yPpaLFqp8AhDH_oDdqGDog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038982455735-utjv4psuov39ne8vlkpq19ldquu1fal2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

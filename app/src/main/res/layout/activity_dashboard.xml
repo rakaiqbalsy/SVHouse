@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.kelompok3.rplinformatika.svhouse.DashboardActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/imageDashboard"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PORTAL ADMIN"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btnUploadImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cari Rumah" />
+
+    <Button
+        android:id="@+id/btnCariRumah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Upload Rumah"/>
+
+    <Button
+        android:id="@+id/btnPesananUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="List Data Pemesanan"/>
+
+    <Button
+        android:id="@+id/btnPesananAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cek Pesanan User"/>
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Logout"/>
+</LinearLayout>
